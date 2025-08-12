@@ -1,5 +1,4 @@
-# SitRight
-SitRight AI is the smart, real-time posture monitoring tool designed to tackle this problem head-on. Using your device’s camera and advanced AI pose detection, it instantly alerts you—through voice alarms or desktop notifications—whenever bad posture is detected.
+Install - https://sourceforge.net/projects/sitright/
 
 # 🪑 SitRight AI – AI-Powered Posture & Health Monitoring
 
