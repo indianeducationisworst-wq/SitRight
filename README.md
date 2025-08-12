@@ -34,11 +34,4 @@ Whether you work in an office, study from home, or spend hours gaming, SitRight 
 
 ## 🚀 Installation
 
-### Web Version
-Simply open the web version in your browser and allow camera access.
-
-### Electron App
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sitright-ai.git
-   cd sitright-ai
+https://sourceforge.net/projects/sitright/
